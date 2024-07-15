@@ -1,4 +1,7 @@
-## Hi there 👋
+
+# Ez Sol
+We develop sotware application where We are the first users of our products.We focus exclusively on developing products that solve real-world problems.
+
 
 <!--
 

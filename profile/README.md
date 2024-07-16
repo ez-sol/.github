@@ -2,7 +2,8 @@
 # Ez Sol
 We develop sotware application where We are the first users of our products.We focus exclusively on developing products that solve real-world problems.
 
-
+## Our Process
+Just 1 thing, We follow Vibe-driven development having sleek UI frontends. That's all!
 <!--
 
 **Here are some ideas to get you started:**

@@ -1,6 +1,6 @@
 
 # Ez Sol
-We develop sotware application where We are the first users of our products.We focus exclusively on developing products that solve real-world problems.
+A private software company that develops custom sotware application where we are the first users of our products. We focus exclusively on developing products that solve real-world problems and generate revenue.
 
 ## Our Process
 Just 1 thing, We follow Vibe-driven development having sleek UI frontends. That's all!
